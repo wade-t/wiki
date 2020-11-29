@@ -1,0 +1,1 @@
+Bllomberg is a rip off of a Bloomberg terminal made in South-East Asia
